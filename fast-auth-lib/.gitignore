@@ -1,0 +1,27 @@
+# Node.js related files and directories
+node_modules/
+
+# IDE and editor related files and directories
+.vscode/
+.idea/
+*.iml
+
+# Environment related files and directories
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# Compiled files
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+garbage
